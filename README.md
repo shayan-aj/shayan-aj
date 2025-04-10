@@ -4,8 +4,8 @@
 
 <h2>👨‍💻 Web Scraping Projects:</h2>
 
-- <b>A Lite Version Of The Code For Scraping Walmart</b>
-  - [Praciting DS & Algos in Python](https://github.com/shayan-aj/Walmart-Basic-Scraper)
+- <b>Walmart Web Scraper</b>
+  - [Walmart Web Scraper (Minimal Portfolio Version)](https://github.com/shayan-aj/Basic_Walmart_Scraper)
 
 <h2> 🤳 Connect with me:</h2>
 
